@@ -1,0 +1,114 @@
+# Galaxy List::Anatoly A
+
+#Label=MilkyWay Lum=MW_lum_AnatolyA.txt
+
+Label=MilkyWay Lum=lumAnatA_ultra.txt
+
+#Label=MilkyWay Lum=MW_lum_AnatolyA_ext.txt
+
+
+#-4
+Label=n7814 Lum=N7814_lum_ultraext.txt Data=DM_NGC7814ultra.txt DataError=ERRORS_NGC7814ultra.txt Out=NGC7814anatAultra.txt
+
+#-2
+Label=m33ult Lum=M33_lum_ultraExt.txt Data=M33_DM_ultraExt.txt DataError=errors_m33_ultraExt.txt Out=M33AnatA_ultext.txt
+
+#-1M33_lum_ultraExt.txt
+Label=m33Ext Lum=M33_lum_ext.txt Data=M33_DM_ext.txt DataError=errors_m33_ext.txt Out=M33AnatA_extended.txt
+
+#0
+Label=m33 Lum=M33_lum.txt Data=M33_DM.txt DataError=errors_m33.txt Out=testM33AnatA.txt
+
+#1
+Label=n3198MOND Disc=disk_NGC3198.txt Gas=gas_NGC3198.txt Data=dmData_NGC3198.txt DataError=errors_NGC3198.txt Out=testN3198AnatA.txt
+
+#2
+Label=n891 Bulge=bulge_NGC891.txt Disc=Disk_NGC891.txt Gas=Gas_NGC891.txt Data=DM_NGC891.txt DataError=error_NGC891.txt Out=testN891AnatA.txt
+
+#3
+Label=m31 Bulge=BULGE_M31.txt Disc=DISK_M31.txt Gas=GAS_M31.txt Data=DM_M31.txt DataError=ERROR_M31.txt Out=testM31AnatA.txt
+
+#4
+Label=n7814 Bulge=BULGE_NGC7814.txt Disc=DISK_NGC7814.txt Gas=GAS_NGC7814.txt Data=DM_NGC7814.txt DataError=ERRORS_NGC7814.txt Out=testN7814AnatA.txt
+
+#5
+Label=n2403MOND Disc=NGC2403_DISC.txt Gas=NGC2403_GAS.txt Data=NGC2403_DM.txt DataError=NGC2403_ERROR.txt Out=testN2403AnatA.txt
+
+#6
+#Label=n2841MOND Bulge=Bulge_NGC2841.txt Disc=Disk_NGC2841.txt Gas=Gas_NGC2841.txt #Data=dmData_NGC2841.txt DataError=ERRORS_NGC2841.txt Out=testN2841AnatA.txt
+
+#7
+Label=n4088 Disc=DISK_N4088.txt Gas=GAS_N4088.txt Data=DATA_N4088.txt DataError=Error_N4088.txt Out=testN4088AnatA.txt
+
+#8
+Label=n6946 Disc=DISK_N6946.txt Gas=GAS_N6946.txt Data=Data_N6946.txt DataError=ERRORS_N6946.txt Out=testN6946AnatA.txt
+
+#9
+Label=n2903MOND Disc=DISK_N2903.txt Gas=GAS_N2903.txt Data=Data_N2903.txt DataError=Error_N2903.txt Out=testN2903AnatA.txt
+
+#10
+Label=n3953 Disc=DISK_N3953.txt Gas=GAS_N3953.txt Data=DATA_N3953.txt DataError=ERROR_N3953.txt Out=testN3953AnatA.txt
+
+#11
+Label=n3726 Disc=DISK_N3726.txt Gas=GAS_N3726.txt Data=DATA_N3726.txt DataError=ERROR_N3726.txt Out=testN3726AnatA.txt
+
+#12
+Label=n3992 Disc=DISK_N3992.txt Gas=GAS_N3992.txt Data=DATA_N3992.txt DataError=ERROR_N3992.txt Out=testN3992AnatA.txt
+
+#13
+Label=n4138 Disc=DISK_N4138.txt Gas=GAS_N4138.txt Data=DATA_N4138.txt DataError=ERROR_N4138.txt Out=testN4138AnatA.txt
+
+#14
+Label=u6973 Disc=DISK_U6973.txt Gas=GAS_U6973.txt Data=DATA_U6973.txt DataError=ERROR_U6973.txt Out=testU6973AnatA.txt
+
+#15
+Label=n5055 Lum=LUM_N5055.txt Data=DATA_N5055.txt DataError=ERROR_N5055.txt Out=testN5055AnatA.txt
+
+#Aaron Ashley added the following galaxy shortcuts.
+#16
+Label=n7331MOND Bulge=BULGE_N7331.txt Gas=GAS_N7331.txt Disc=DISK_N7331.txt Data=DATA_N7331.txt DataError=ERROR_N7331.txt Out=testN7331MONDAnatA.txt
+
+#17
+Label=n5533 Bulge=BULGE_N5533.txt Gas=GAS_N5533.txt Disc=DISK_N5533.txt Data=DATA_N5533.txt DataError=ERROR_N5533.txt Out=testN5533AnatA.txt
+
+#18
+Label=n5907 Bulge=BULGE_N5907.txt Gas=GAS_N5907.txt Disc=DISK_N5907.txt Data=DATA_N5907.txt DataError=ERRORS_N5907.txt Out=testN5907AnatA.txt
+
+#19
+Label=n3198b Gas=GAS_N3198b.txt Disc=DISK_N3198b.txt Data=DATA_N3198b.txt DataError=ERROR_N3198b.txt Out=testN3198bAnatA.txt
+
+#20
+Label=m33bNFW Gas=GAS_M33b.txt Disc=DISK_M33b.txt  Data=DATA_M33b.txt  DataError=ERROR_M33b.txt  Out=testM33bNFWAnatA.txt
+
+#21
+Label=f563_1NFW Gas=GAS_F563_1.txt Disc=DISK_F563_1.txt Data=DATA_F563_1.txt DataError=ERROR_F563_1.txt Out=testF563_1NFWAnatA.txt
+
+#22
+Label=n925NFW Gas=GAS_N925.txt Disc=DISK_N925.txt Data=DATA_N925.txt DataError=ERROR_N925.txt Out=testN925NFWAnatA.txt
+
+#23
+Label=n2403bNFW	 Gas=GAS_N2403b.txt Disc=DISK_N2403b.txt Data=DATA_N2403b.txt DataError=ERROR_N2403b.txt Out=testN2403bAnatA.txt
+
+#24
+Label=n3198cNFW Gas=GAS_N3198c.txt Disc=DISK_N3198c.txt Data=DATA_N3198c.txt DataError=ERROR_N3198c.txt Out=testN3198cNFWAnatA.txt
+
+#25
+Label=n6946bNFW Bulge=INNERDISK_N6946b.txt Gas=GAS_N6946b.txt Disc=DISK_N6946b.txt Data=DATA_N6946b.txt DataError=ERROR_N6946b.txt Out=testN6946bNFWAnatA.txt
+
+#26
+Label=n2903bNFW Bulge=INNERDISK_N2903b.txt Gas=GAS_N2903b.txt Disc=DISK_N2903b.txt Data=DATA_N2903b.txt DataError=ERROR_N2903b.txt Out=testN2903bNFWAnatA.txt
+
+#27
+Label=n2841bNFW Bulge=INNERDISK_N2841b.txt Gas=GAS_N2841b.txt Disc=DISK_N2841b.txt Data=DATA_N2841b.txt DataError=ERROR_N2841b.txt Out=testN2841bNFWAnatA.txt
+
+#28
+Label=n5055bNFW Bulge=BULGE_N5055b.txt Gas=GAS_N5055b.txt Disc=DISK_N5055b.txt Data=DATA_N5055b.txt DataError=ERROR_N5055b.txt Out=testN5055bNFWAnatA.txt
+
+#29
+Label=n2841TaM Bulge=BULGE_N2841_TaM.txt Gas=GAS_N2841_TaM.txt Disc=DISK_N2841_TaM.txt Data=DATA_N2841_TaM.txt DataError=ERROR_N2841_TaM.txt Out=testN2841TaMAnatA.txt
+
+#30
+Label=n2903TaM Gas=GAS_N2903_TaM.txt Disc=DISK_N2903_TaM.txt Data=DATA_N2903_TaM.txt DataError=ERROR_N2903_TaM.txt Out=testN2903TaMAnatA.txt
+
+#31
+Label=n7331TaM Bulge=BULGE_N7331_TaM.txt Gas=GAS_N7331_TaM.txt Disc=DISK_N7331_TaM.txt Data=DATA_N7331_TaM.txt DataError=ERROR_N7331_TaM.txt Out=testN7331TaMAnatA.txt

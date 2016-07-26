@@ -1,0 +1,144 @@
+# Galaxy List::Xue
+
+Label=MilkyWay Bulge=MW_Xue_BULGE.txt Disc=MW_Xue_DISK.txt
+
+#-2  NFW_m33_8_15.txt
+Label=m33_8_15 Disc=DISK_M33_8_15.txt Gas=GAS_M33_8_15.txt Data=DATA_M33_8_15.txt DataError=ERROR_M33_8_15.txt Out=M33_8_15Xue.txt
+
+#-1
+Label=n6946ave Lum=N6946ave_lum.txt Data=N6946_data.txt DataError=error_n6946ave.txt Out=N6946testALPHAXue.txt
+
+#0
+#Label=m33 Lum=M33_lum.txt Data=M33_DM.txt DataError=errors_m33.txt Out=M33testXue.txt
+
+#1
+Label=n3198aNFW Disc=disk_NGC3198.txt Gas=gas_NGC3198.txt Data=dmData_NGC3198.txt DataError=errors_NGC3198.txt Out=NGC3198aNFWXue.txt
+
+#2 
+Label=n891 Bulge=bulge_NGC891.txt Disc=Disk_NGC891.txt Gas=Gas_NGC891.txt Data=DM_NGC891.txt DataError=error_NGC891.txt Out=NGC891Xue.txt
+
+#3
+Label=m31 Bulge=BULGE_M31.txt Disc=DISK_M31.txt Gas=GAS_M31.txt Data=DM_M31.txt DataError=ERROR_M31.txt Out=M31Xue.txt
+
+#4
+Label=n7814 Bulge=BULGE_NGC7814.txt Disc=DISK_NGC7814.txt Gas=GAS_NGC7814.txt Data=DM_NGC7814.txt DataError=ERRORS_NGC7814.txt Out=NGC7814Xue.txt
+
+#5 
+Label=n2403MOND Disc=NGC2403_DISC.txt Gas=NGC2403_GAS.txt Data=NGC2403_DM.txt DataError=NGC2403_ERROR.txt Out=NGC2403MONDXue.txt
+
+#6
+#Label=n2841MOND Bulge=Bulge_NGC2841.txt Disc=Disk_NGC2841.txt Gas=Gas_NGC2841.txt #Data=dmData_NGC2841.txt DataError=ERRORS_NGC2841.txt Out=NGC2841Xue.txt
+
+#7
+Label=n4088 Disc=DISK_N4088.txt Gas=GAS_N4088.txt Data=DATA_N4088.txt DataError=Error_N4088.txt Out=NGC4088Xue.txt
+
+#8
+Label=n6946 Disc=DISK_N6946.txt Gas=GAS_N6946.txt Data=Data_N6946.txt DataError=ERRORS_N6946.txt Out=NGC6946Xue.txt
+
+#9
+Label=n2903 Disc=Disk_N2903.txt Gas=GAS_N2903.txt Data=Data_N2903.txt DataError=Error_N2903.txt Out=NGC2903Xue.txt
+
+#10
+Label=n3953 Disc=DISK_N3953.txt Gas=GAS_N3953.txt Data=DATA_N3953.txt DataError=ERROR_N3953.txt Out=NGC3953Xue.txt
+
+#11
+Label=n3726 Disc=DISK_N3726.txt Gas=GAS_N3726.txt Data=DATA_N3726.txt DataError=ERROR_N3726.txt Out=NGC3726Xue.txt
+
+#12
+Label=n3992 Disc=DISK_N3992.txt Gas=GAS_N3992.txt Data=DATA_N3992.txt DataError=ERROR_N3992.txt Out=NGC3992Xue.txt
+
+#13
+Label=n4138 Disc=DISK_N4138.txt Gas=GAS_N4138.txt Data=DATA_N4138.txt DataError=ERROR_N4138.txt Out=NGC4138Xue.txt
+
+#14
+Label=u6973 Disc=DISK_U6973.txt Gas=GAS_U6973.txt Data=DATA_U6973.txt DataError=ERROR_U6973.txt Out=UGC6973Xue.txt
+
+#15
+#Label=n5055 Lum=LUM_N5055.txt Data=DATA_N5055.txt DataError=ERROR_N5055.txt #Out=NGC5055Xue.txt
+
+#15 
+Label=n5055batt2   Disc=N5055_disk_batt2.txt Gas=N5055_gas_batt2.txt Data=N5055_data_batt2.txt DataError=N5055_errors_batt2.txt Out=NGC5055batt2Xue.txt
+
+#16
+Label=n7331MOND Bulge=BULGE_N7331.txt Gas=GAS_N7331.txt Disc=DISK_N7331.txt Data=DATA_N7331.txt DataError=ERROR_N7331.txt Out=NGC7331MONDXue.txt
+
+#17
+Label=n5533 Bulge=BULGE_N5533.txt Gas=GAS_N5533.txt Disc=DISK_N5533.txt Data=DATA_N5533.txt DataError=ERROR_N5533.txt Out=NGC5533Xue.txt
+
+#18
+Label=n5907 Bulge=BULGE_N5907.txt Gas=GAS_N5907.txt Disc=DISK_N5907.txt Data=DATA_N5907.txt DataError=ERRORS_N5907.txt Out=NGC5907Xue.txt
+
+#19
+Label=n3198bNFW Gas=GAS_N3198b.txt Disc=DISK_N3198b.txt Data=DATA_N3198b.txt DataError=ERROR_N3198b.txt Out=NGC3198bNFWXue.txt
+
+#20 associated NFW_m33b.txt
+Label=m33bNFW Gas=GAS_M33b.txt Disc=DISK_M33b.txt Data=DATA_M33b.txt  DataError=ERROR_M33b.txt  Out=M33bNFWXue.txt
+
+#21
+Label=f563_1NFW Gas=GAS_F563_1.txt Disc=DISK_F563_1.txt Data=DATA_F563_1.txt DataError=ERROR_F563_1.txt Out=F563_1NFWXue.txt
+
+#22
+#Label=n925NFW Gas=GAS_N925.txt Disc=DISK_N925.txt Data=DATA_N925.txt #DataError=ERROR_N925.txt Out=NGC925NFWXue.txt
+
+#22.5
+#Label=n925ISO Gas=GAS_N925vISO.txt Disc=DISK_N925vISO.txt Data=DATA_N925vISO.txt #DataError=ERROR_N925vISO.txt Out=NGC925ISOXue.txt
+
+#22.75Uncut NFW version.
+Label=n925NFW Gas=GAS_N925UC.txt Disc=DISK_N925UC.txt Data=DATA_N925UC.txt DataError=ERROR_N925UC.txt Out=NGC925NFWXue.txt
+
+#23 have to trim first point off of chi-square file, is an artifact
+Label=n2403bNFW	 Gas=GAS_N2403b.txt Disc=DISK_N2403b.txt Data=DATA_N2403b.txt DataError=ERROR_N2403b.txt Out=NGC2403bNFWXue.txt
+
+#24.5  uncut version, to find critical point
+Label=n3198cNFWo Gas=GAS_N3198co.txt Disc=DISK_N3198co.txt Data=DATA_N3198co.txt DataError=ERROR_N3198co.txt Out=NGC3198cNFWoXue.txt
+
+#24
+Label=n3198cNFW Gas=GAS_N3198c.txt Disc=DISK_N3198c.txt Data=DATA_N3198c.txt DataError=ERROR_N3198c.txt Out=NGC3198cNFWXue.txt
+
+#25
+Label=n6946bNFW Bulge=INNERDISK_N6946b.txt Gas=GAS_N6946b.txt Disc=DISK_N6946b.txt Data=DATA_N6946b.txt DataError=ERROR_N6946b.txt Out=NGC6946bNFWXue.txt
+
+#26.5
+Label=n2903bNFWo Bulge=INNERDISK_N2903bo.txt Gas=GAS_N2903bo.txt Disc=DISK_N2903bo.txt Data=DATA_N2903bo.txt DataError=ERROR_N2903bo.txt Out=NGC2903bNFWoXue.txt
+
+#26
+Label=n2903bNFW Bulge=INNERDISK_N2903b.txt Gas=GAS_N2903b.txt Disc=DISK_N2903b.txt Data=DATA_N2903b.txt DataError=ERROR_N2903b.txt Out=NGC2903bNFWXue.txt
+
+#27 trimmed--two points. use this one.
+Label=n2841bNFWt Bulge=INNERDISK_N2841bt.txt Gas=GAS_N2841bt.txt Disc=DISK_N2841bt.txt Data=DATA_N2841bt.txt DataError=ERROR_N2841bt.txt Out=NGC2841bNFWtXue.txt
+
+#27.5
+Label=n2841bNFW Bulge=INNERDISK_N2841bo.txt Gas=GAS_N2841bo.txt Disc=DISK_N2841bo.txt Data=DATA_N2841bo.txt DataError=ERROR_N2841bo.txt Out=NGC2841bNFWXue.txt
+
+#27.7#Dir=NGC2841/deBlok/TextData 
+Label=NGC2841_deBlok Bulge=NGC2841_deBlok_BULGE.txt Gas=NGC2841_deBlok_GAS.txt Disc=NGC2841_deBlok_DISK.txt Data=NGC2841_deBlok_DATA.txt DataError=NGC2841_deBlok_ERROR.txt Out=NGC2841_deBlok_Xue.txt
+
+#28 
+Label=NGC5055_deBlok #Dir=NGC5055/deBlok/TextData Bulge=NGC5055_deBlok_BULGE.txt Gas=NGC5055_deBlok_GAS.txt Disc=NGC5055_deBlok_DISK.txt Data=NGC5055_deBlok_DATA.txt DataError=NGC5055_deBlok_ERROR.txt Out=NGC5055_deBlok_Xue.txt
+
+#28.5
+Label=n5055bNFWTEST Bulge=BULGE_N5055bTEST.txt Gas=GAS_N5055bTEST.txt Disc=DISK_N5055bTEST.txt Data=DATA_N5055bTEST.txt DataError=ERROR_N5055bTEST.txt Out=NGC5055bNFWTESTXue.txt
+
+#29
+#Label=n2841TaM Bulge=BULGE_N2841_TaM.txt Gas=GAS_N2841_TaM.txt Disc=DISK_N2841_TaM.txt #Data=DATA_N2841_TaM.txt DataError=ERROR_N2841_TaM.txt Out=NGC2841TaMXue.txt
+
+#29.5
+Label=n2841TaM Bulge=BULGE_N2841_TaMo.txt Gas=GAS_N2841_TaMo.txt Disc=DISK_N2841_TaMo.txt Data=DATA_N2841_TaMo.txt DataError=ERROR_N2841_TaMo.txt Out=NGC2841TaMXue.txt
+
+#30 
+Label=n2903TaM Gas=GAS_N2903_TaM.txt Disc=DISK_N2903_TaM.txt Data=DATA_N2903_TaM.txt DataError=ERROR_N2903_TaM.txt Out=NGC2903TaMXue.txt
+
+#31works
+Label=n7331TaM Bulge=BULGE_N7331_TaM.txt Gas=GAS_N7331_TaM.txt Disc=DISK_N7331_TaM.txt Data=DATA_N7331_TaM.txt DataError=ERROR_N7331_TaM.txt Out=NGC7331TaMXue.txt
+
+#32 
+Label=n3521TaM Gas=GAS_N3521TaM.txt Disc=DISC_N3521TaM.txt Data=DATA_N3521TaM.txt DataError=ERROR_N3521TaM.txt Out=NGC3521TaMXue.txt
+
+#33  
+Label=NGC7793_GentileTaM Dir=NGC7793/GentileTaM/TextData Gas=NGC7793_GentileTaM_GAS.txt Disc=NGC7793_GentileTaM_DISK.txt Data=NGC7793_GentileTaM_DATA.txt DataError=NGC7793_GentileTaM_ERROR.txt Out=NGC7793_GentileTaM_Xue.txt
+
+#34  MOND_N5055_TaM.txt
+Label=n5055TaM Bulge=BULGE_N5055_TaM.txt Gas=GAS_N5055_TaM.txt Disc=DISK_N5055_TaM.txt Data=DATA_N5055_TaM.txt DataError=ERROR_N5055_TaM.txt Out=NGC5055TaMXue.txt
+
+#35
+Label=n3198maria Gas=GAS_N3198maria.txt Disc=DISK_N3198maria.txt Data=DATA_N3198maria.txt DataError=ERROR_N3198maria.txt Out=NGC3198dMONDXue.txt

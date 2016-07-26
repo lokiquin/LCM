@@ -1,0 +1,18 @@
+# Galaxy List
+
+#label=MilkyWay  Bulge=MW_lum_AnatolyB.txt Disc=MW_lum_zeroFileB.txt
+
+# info about this galaxy
+# ...
+Label=MilkyWay Bulge=Bulge_MW_30.txt Disc=Disc_MW_30.txt
+
+Label=n2403MOND Gas=NGC2403_Gas.txt Disc=NGC2403_DISC.txt Data=NGC2403_DM.txt DataError=NGC2403_ERROR.txt Out=chisquareNGC2403MONDSofue.txt
+
+#0
+Label=m33 Lum=M33_lum.txt Data=M33_DM.txt DataError=errors_m33.txt Out=chisquareM33Sofue.txt
+
+#1
+Label=n3198MOND Disc=disk_NGC3198.txt Gas=gas_NGC3198.txt Data=dmData_NGC3198.txt DataError=errors_NGC3198.txt Out=chisquareN3198Sofue.txt
+
+#2
+Label=N891 Bulge=bulge_NGC891.txt Disc=Disk_NGC891.txt Gas=Gas_NGC891.txt Data=DM_NGC891.txt DataError=error_NGC891.txt Out=chisquareN891Sofue.txt

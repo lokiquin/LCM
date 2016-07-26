@@ -1,0 +1,13 @@
+  1. get a copy of the LCM 2015 paper, for galaxy list
+2. pick galaxy
+3. make folder, copy .c code and rename
+
+4. Check DB file, if the LUM profile is already co-added
+
+5.  use excel spread sheet   reduced rotation velocity 
+from quadrature sum of gas and stars. 
+
+2.make .txt file of radius and velocity, name MW_Lum_author.txt
+3.edit LUM_MWmassmodels.c to include new milky way
+4. in root, .x LUM_MWmassmodels.c
+will run

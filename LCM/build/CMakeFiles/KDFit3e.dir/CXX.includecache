@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lcm/Desktop/LCM/CalcH.cc
+CalcH.hh
+/home/lcm/Desktop/LCM/CalcH.hh
+Galaxy.hh
+/home/lcm/Desktop/LCM/Galaxy.hh
+Constants.hh
+/home/lcm/Desktop/LCM/Constants.hh
+algorithm
+-
+iostream
+-
+fstream
+-
+cstdlib
+-
+cmath
+-
+sstream
+-
+
+/home/lcm/Desktop/LCM/CalcH.hh
+deque
+-
+string
+-
+
+/home/lcm/Desktop/LCM/Constants.hh
+
+/home/lcm/Desktop/LCM/Galaxy.hh
+string
+-
+deque
+-
+

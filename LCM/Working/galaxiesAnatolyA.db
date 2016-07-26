@@ -1,0 +1,7 @@
+# Galaxy List::Anatoly A,    goes with Noah's updated code
+
+Label=MilkyWay Dir=/home/lcm/Desktop/Data Lum=MW_lum_AnatolyA.txt
+
+#VV NGC6946_deBlok_LUM AT ORIGINAL DISTANCE 5.9 Mpc, changed to 6.9 Mpc
+Label=n6946bLCM Dir=/home/lcm/Desktop/Data Lum=NGC6946_deBlok_LUMdf.txt Data=NGC6946_deBlok_DATAdf.txt DataError=NGC6946_deBlok_ERRORdf.txt 
+
